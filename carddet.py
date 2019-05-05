@@ -11,11 +11,14 @@ from skimage import io
 from imutils import face_utils
 import imutils
 import struct
+import pandas
 
 faces_folder = "/home/nikhil/1000lookz/dlib-19.6/examples/face"
 f2="/home/nikhil/1000lookz/dlib-19.6/tools/imglab/build"
 predictor_path = "/home/nikhil/1000lookz/dlib-19.6/python_examples/shape_predictor_68_face_landmarks.dat"
 
+
+#i am making a fucking change
 
 #card width in inches
 KNOWN_WIDTH = 3.370
