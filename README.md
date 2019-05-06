@@ -28,5 +28,7 @@ and other packages like os,sys,glob
 * clone the repo 
 * add your pic directory from which the user selfie is obtained.
 
+![Screenshot](f9.jpg)
+
 ![alt text](https://raw.githubusercontent.com/username/Face-Measurement-Computation/master/f9.jpg)
 
