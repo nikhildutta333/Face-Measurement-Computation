@@ -26,5 +26,15 @@ and other packages like os,sys,glob
 # How to Use
 
 * clone the repo 
-* add your pic directory from which the user selfie is obtained.
+* add your pic directory from which the user selfie is obtained.The below image shows the sample of how input should be.
+
+![Screenshot](f9.jpg)
+
+* add preictor path to the dlib's 68 face landmark detector
+
+* Run the code in terminal.
+
+
+
+
 
