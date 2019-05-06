@@ -37,7 +37,7 @@ and other packages like os,sys,glob
 # Basic Working 
 
 The Idea of this method
-The pinhole (monocular) camera generates a one-to-one relationship between the object and the image. Using this principle, we can deduce a relationship between known parameters: focal length (f), radius of marker in the image plane (r), and radios of marker in the object plane (R) and unknown parameter, distance from the camera to the object(d).
+The camera generates a one-to-one relationship between the object and the image. Using this principle, we can deduce a relationship between known parameters: focal length (f), radius of marker in the image plane (r), and radios of marker in the object plane (R) and unknown parameter, distance from the camera to the object(d).
 
 
 Principle of the method
