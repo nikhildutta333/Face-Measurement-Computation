@@ -42,6 +42,8 @@ The camera generates a one-to-one relationship between the object and the image.
 
 Principle of the method
 
+D’ = (W x F) / P
+
 Using the principle of Similar Triangles, we can obtain the formulas as follows:
 
 
